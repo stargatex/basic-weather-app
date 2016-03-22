@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">City Name</string>
+
+    <string name="wi_day_sunny">&#xf00d;</string>
+    <string name="wi_day_cloudy">&#xf002;</string>
+    <string name="wi_owm_800">&#xf00d;</string>
+    <string name="wi_wu_clear">&#xf00d;</string>
+    <string name="wi_night_clear">&#xf02e;</string>
+    <string name="wi_day_fog">&#xf003;</string>
+
+    <string name="wi_owm_200">&#xf01e;</string>
+    <string name="wi_owm_300">&#xf01c;</string>
+    <string name="wi_owm_500">&#xf01c;</string>
+    <string name="wi_owm_600">&#xf01b;</string>
+    <string name="wi_owm_701">&#xf01a;</string>
+    <string name="wi_owm_801">&#xf011;</string>
+    <string name="wi_owm_900">&#xf056;</string>
+
+    <string name="wi_owm_day_200">&#xf010;</string>
+    <string name="wi_owm_night_200">&#xf02d;</string>
+    <string name="wi_owm_day_300">&#xf00b;</string>
+    <string name="wi_owm_night_300">&#xf02b;</string>
+    <string name="wi_owm_day_500">&#xf00b;</string>
+    <string name="wi_owm_night_500">&#xf02b;</string>
+    <string name="wi_owm_day_600">&#xf00a;</string>
+    <string name="wi_owm_night_600">&#xf02a;</string>
+    <string name="wi_owm_day_701">&#xf009;</string>
+    <string name="wi_owm_night_701">&#xf029;</string>
+    <string name="wi_owm_day_800">&#xf00d;</string>
+    <string name="wi_owm_night_800">&#xf02e;</string>
+    <string name="wi_owm_day_900">&#xf056;</string>
+    <string name="wi_owm_night_900">&#xf056;</string>
+
+
+
+    <string name="wi_wu_unknown">&#xf00d;</string>
+</resources>
